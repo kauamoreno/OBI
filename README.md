@@ -29,6 +29,17 @@ Se você estiver interessado em colaborar, basta seguir as seguintes etapas:
 
 Eu revisarei sua contribuição e a adicionarei ao repositório se estiver de acordo com meus padrões de qualidade.
 <br><br>
+
 ## Conclusão
 Este projeto é uma ótima oportunidade para mim estudar e contribuir com a comunidade de programação. 
 Espero que possa ajudar outros estudantes interessados na OBI e que possamos aprender juntos. Boa sorte na OBI!
+<br><br>
+
+## Licença
+Este projeto está sob a licença MIT, para mais informações consulte o arquivo [LICENSE](LICENSE) .
+<br><br>
+
+> Feito por Kauã Moreno 
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kauamoreno)
+[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaua.moreno2005@gmail.com)
